@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-color: rgba(255, 222, 173, 1);
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-family: 'Cinzel', serif;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 350%;
+    padding: .35em;
+}
+
+h2 {
+    font-size: 200%;
+    padding: .2em;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 135%;
+}
+
+nav {
+    background-color: rgba(222, 184, 135, 1);
+    padding: 1em;
+    margin: auto;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+nav a {
+    padding: .5em;
+}
+
+p a {
+    border: 3px solid rgba(226, 198, 59, 1);
+}
+
+.below-nav-home {
+    margin-top: 1.2em;
+}
+
+.below-nav {
+    margin-top: 2em;
+}
+
+p {
+    margin: 20px;
+}
+
+section div {
+    display: inline-block;
+}
+
+footer {
+    background-color: rgba(222, 184, 135, 1);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+footer div {
+    display: inline-block;
+    padding: .5em;
+}
